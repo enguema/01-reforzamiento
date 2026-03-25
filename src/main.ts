@@ -1,9 +1,10 @@
 import './style.css'
 import './bases/01-const-let';
 import './bases/02-template-string';
-import './bases/03-0bject-literal'
-import './bases/05-function'
-import './bases/06-obj-destructring'
+//import './bases/03-0bject-literal'
+//import './bases/05-function'
+//import './bases/06-obj-destructring'
+import './bases/07-array-destructuring'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
