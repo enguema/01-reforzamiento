@@ -14,7 +14,7 @@ console.log(sum(...numbers));*/
 
 
 const spideramasn = {...person};
-console.log(person);
+//console.log(person);
 
 /**
  * permite a un elemento iterable tal como un arreglo o cadena 

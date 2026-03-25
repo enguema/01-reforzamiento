@@ -6,4 +6,4 @@ const fullName = `
      ${firstName} ${LastName}
 `;
 
-console.log(fullName);
+//console.log(fullName);
