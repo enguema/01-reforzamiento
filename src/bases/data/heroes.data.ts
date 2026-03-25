@@ -1,4 +1,12 @@
-const heroes = [
+//Procurar que todos los arrglos tengan un tipo de dato (gracias a las interfaces)
+
+interface Hero{
+    id: number;
+    name: string;
+    owner: string;
+}
+
+const heroes: Hero[] = [
   {
     id: 1,
     name: 'Batman',
