@@ -29,30 +29,30 @@ export const heroes: Hero[] = [
   {
     id: 2,
     name: 'Spiderman',
-    //owner: Owner.Marvel,
+    owner:'DC',
     sexo:'M'
   },
   {
     id: 3,
     name: 'Superman',
-    //owner: Owner.DC,
+    owner: 'Marvel',
     sexo:'M'
   },
   {
     id: 4,
     name: 'Flash',
-    //owner: Owner.DC,
+    owner: 'DC',
     sexo:'M'
   },
   {
     id: 5,
     name: 'Wolverine',
-    //owner: Owner.Marvel,
+    owner: 'Marvel',
     sexo:'M'
   },{
     id: 6,
     name: 'Daredevil',
-    //owner: Owner.DC,
+    owner: 'Marvel',
     sexo:'M'
   }
 ];
