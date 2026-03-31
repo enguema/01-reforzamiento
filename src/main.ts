@@ -6,7 +6,7 @@ import './bases/01-const-let';
 //import './bases/06-obj-destructring'
 //import './bases/07-array-destructuring'
 //import './bases/08-import-export';
-import { getHerobyOwner } from './bases/08-import-export';
+//import { getHerobyOwner } from './bases/08-import-export';
 import './bases/10-fetch-api';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
